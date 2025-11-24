@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the SolaraX (SLX) whitepaper. This repo contains the full whitepaper document for the SolaraX token project.
 
-- **Whitepaper File:** [solarax_whitepaper Final.md](solarax_whitepaper _Final.md) (Click to view the full document)
+- **Whitepaper File:** [solarax_whitepaper _Final.md](solarax_whitepaper _Final.md) (Click to view the full document)
 - **Version:** 1.0 (Last Updated: November 24, 2025)
 - **Project Website:** https://solarax.info
 
